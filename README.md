@@ -46,4 +46,8 @@
   <li>CSV</li>
 </ul>
 
+# Hosted Link: https://saif9523.github.io/PlacementCell/
+# Installation
+Run npm install for required dependencies
+
 
