@@ -13,7 +13,7 @@
 </ul>
 
 # Screenshots of the project
-<li>Login Page</li>
+- Login Page
 ![Login](https://github.com/Saif9523/PlacementCell/assets/57210591/a7b21091-0daf-4617-b317-ce149080e977)
 
 <li>Add Students</li>
